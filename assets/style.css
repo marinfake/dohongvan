@@ -337,6 +337,8 @@ nav.scrolled {
     width: 580px;
     border-radius: 10px;
     opacity: 0.95;
+    transition: transform 0.3s;
+    transition: all 0.3s ease-in-out;
 }
 
 .socialsection {
