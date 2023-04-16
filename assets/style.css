@@ -325,7 +325,7 @@ nav.scrolled {
     transition: all 0.3s ease-in-out;
 }
 
-.bf:hover {
+.bfimg img:hover {
     transform: translateY(-10px);
 }
 
