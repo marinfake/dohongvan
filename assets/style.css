@@ -15,7 +15,7 @@ html {
 
 .container {
     width: 100%;
-    height: 3850px;
+    height: 600vh;
     background-image: linear-gradient(rgba(0,0,0,0.5), transparent), url(./img/Van-background.png);
     background-size: cover;
     background-position: center;
@@ -116,7 +116,7 @@ nav.scrolled {
 
 
 .textboxsection {
-    height: 650px;
+    height: 100vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -162,7 +162,7 @@ nav.scrolled {
     justify-content: center;
     align-items: center;
     width: 100%;
-    height: 700px;
+    height: 100vh;
 }
 
 
@@ -259,7 +259,7 @@ nav.scrolled {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 650px;
+    height: 100vh;
 }
 
 .cry {
@@ -304,7 +304,7 @@ nav.scrolled {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 650px;
+    height: 100vh;
 }
 
 .boyfriend {
@@ -346,7 +346,7 @@ nav.scrolled {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 550px;
+    height: 100vh;
 }
 
 .social {
@@ -395,7 +395,7 @@ nav.scrolled {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 600px;
+    height: 100vh;
     width: 100%;
 }
 
